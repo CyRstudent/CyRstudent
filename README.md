@@ -15,7 +15,7 @@ Soy de perfil autodidacta y puramente vocacional. Además de mis estudios, dedic
 
 
 ## Inglés (English)
-I started programming as young as I turned 7 years old out of pure boredom, and this "hobby" led me to where I am today, enrolled in the 1st course of the Software Engineering Degree at the ETSII of the University of Málaga (UMA).
+I started programming as young as I turned 7 years old out of pure boredom, and this "hobby" led me to where I am today, enrolled in the 2nd course of the Software Engineering Degree at the ETSII of the University of Málaga (UMA).
 
 I love understanding technology from its most abstract and logic side. My main focusses of interest are Backend Developing, AI and Computational Mathematics. I specially enjoy solving algorithmic problems and designing Software Architectures.
 
