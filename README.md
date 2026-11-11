@@ -1,7 +1,7 @@
 # ¡Hola! Soy Hugo // Hey, I'm Hugo!
 ## Español (Spanish)
 
-Empecé a programar a los 7 años por pura curiosidad, y hoy esa afición me ha llevado a estar cursando 1º del Grado en Ingeniería del Software en la E.T.S.I. informática de la Universidad de Málaga (UMA).
+Empecé a programar a los 7 años por pura curiosidad, y hoy esa afición me ha llevado a estar cursando 2º del Grado en Ingeniería del Software en la E.T.S.I. informática de la Universidad de Málaga (UMA).
 
 Me apasiona entender la tecnología desde su lado más abstracto y lógico. Mis principales focos de interés son el Desarrollo Backend, la IA y las Matemáticas Computacionales. Disfruto especialmente enfrentándome a problemas de algoritmia y diseñando arquitectura de software.
 
